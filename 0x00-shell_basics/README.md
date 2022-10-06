@@ -12,3 +12,4 @@ Change working dierctory to the previous one
 Script that ist all file even the one with name beginning with a period characted, which are normally  hidden) in the current directory and the /boot directory (in this order) in long format
 Script that print the type of file name iamafile
 create symbolic link to bin/ls
+Script that copy all the html files from the current working directory
