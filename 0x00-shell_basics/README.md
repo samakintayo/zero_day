@@ -13,3 +13,4 @@ Script that ist all file even the one with name beginning with a period characte
 Script that print the type of file name iamafile
 create symbolic link to bin/ls
 Script that copy all the html files from the current working directory
+Sript that move all the files beginning with uppercase letter to the directory /tmp/u
