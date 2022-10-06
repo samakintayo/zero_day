@@ -8,3 +8,4 @@ A script that creates a directory in the /tmp directory
 Move the file betty from /tmp to /tmp/my_first_directory
 Delete betty from my first directory
 First directory deletion
+Change working dierctory to the previous one
