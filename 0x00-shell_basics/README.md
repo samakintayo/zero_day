@@ -17,3 +17,4 @@ Sript that move all the files beginning with uppercase letter to the directory /
 script that delete all files in the current working directory that end with character ~
 Script that create directories welcome, welcome/to, welcome/to/school in the current directory
 script ofcommand that list all the files and directory of the current directory separated by commas
+create a magic file school.mgc to detect school data files
