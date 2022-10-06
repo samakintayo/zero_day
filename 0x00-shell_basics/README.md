@@ -9,3 +9,4 @@ Move the file betty from /tmp to /tmp/my_first_directory
 Delete betty from my first directory
 First directory deletion
 Change working dierctory to the previous one
+Script that ist all file even the one with name beginning with a period characted, which are normally  hidden) in the current directory and the /boot directory (in this order) in long format
