@@ -7,3 +7,4 @@ Display current directory contents, long format, with user and group IDs display
 A script that creates a directory in the /tmp directory
 Move the file betty from /tmp to /tmp/my_first_directory
 Delete betty from my first directory
+First directory deletion
