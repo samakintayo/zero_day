@@ -15,3 +15,4 @@ create symbolic link to bin/ls
 Script that copy all the html files from the current working directory
 Sript that move all the files beginning with uppercase letter to the directory /tmp/u
 script that delete all files in the current working directory that end with character ~
+Script that create directories welcome, welcome/to, welcome/to/school in the current directory
