@@ -1,1 +1,1 @@
-symbolic link permission
+Star ways
