@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1665208523,,"x"
+|2,0,1665442317,,"x"
 :w
-|2,0,1665208520,,"w"
+|2,0,1665442314,,"w"
 
 # Search String History (newest to oldest):
 
@@ -27,16 +27,33 @@
 # Registers:
 
 # File marks:
-'0  2  22  ~/zero_day/README.md
-|4,48,2,22,1665208523,"~/zero_day/README.md"
+'0  2  10  ~/0x02-shell_redirections/1-confused_smiley
+|4,48,2,10,1665442317,"~/0x02-shell_redirections/1-confused_smiley"
+'1  2  22  ~/zero_day/README.md
+|4,49,2,22,1665208523,"~/zero_day/README.md"
 
 # Jumplist (newest first):
+-'  2  10  ~/0x02-shell_redirections/1-confused_smiley
+|4,39,2,10,1665442317,"~/0x02-shell_redirections/1-confused_smiley"
+-'  1  0  ~/0x02-shell_redirections/1-confused_smiley
+|4,39,1,0,1665442287,"~/0x02-shell_redirections/1-confused_smiley"
+-'  2  22  ~/zero_day/README.md
+|4,39,2,22,1665208523,"~/zero_day/README.md"
 -'  2  22  ~/zero_day/README.md
 |4,39,2,22,1665208523,"~/zero_day/README.md"
 -'  1  0  ~/zero_day/README.md
 |4,39,1,0,1665208460,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1665208460,"~/zero_day/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x02-shell_redirections/1-confused_smiley
+	*	1665442315	0
+	"	2	10
+	^	2	11
+	.	2	11
+	+	2	11
 
 > ~/zero_day/README.md
 	*	1665208521	0
